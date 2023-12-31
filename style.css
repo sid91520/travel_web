@@ -176,7 +176,7 @@ position: relative;
 }
 
 .serviceimg2 img{
-    /* padding: 80px 15px; */
+    padding: 50px 15px;
     background-position: center;
     object-fit: cover;
     object-position: center;
